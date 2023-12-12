@@ -1,8 +1,8 @@
 {
-  "name": "Obscuro Testnet",
-  "title": "Obscuro Sepolia Rollup Testnet",
+  "name": "Ten Testnet",
+  "title": "Ten Sepolia Rollup Testnet",
   "chainId": 443,
-  "shortName": "obs-testnet",
+  "shortName": "ten-testnet",
   "chain": "ETH",
   "networkId": 443,
   "nativeCurrency": {
@@ -15,8 +15,8 @@
   "infoURL": "https://obscu.ro",
   "explorers": [
     {
-      "name": "Obscuro Sepolia Rollup Explorer",
-      "url": "https://testnet.obscuroscan.io",
+      "name": "Ten Sepolia Rollup Explorer",
+      "url": "https://tenscan.io/",
       "standard": "none"
     }
   ],
